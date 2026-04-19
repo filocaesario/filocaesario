@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone 👋<br>I'm Filo Caesario Farras. You can call me iloo.<br><br>I love exploring web development and AI. 🌐<br><br>I love building things, doing challenges, experimenting, and improving things.<br><br>Still learning, still growing, and striving to stay consistent and efficient.<br><br>Curious about new ideas and always ready to learn and understand new things. 🚀
+Hi everyone 👋<br>I'm Filo Caesario Farras. You can call me iloo.<br><br>I love exploring web development and AI. 💻🌐<br><br>I love building things, doing challenges, experimenting, and improving things.<br><br>Still learning, still growing, and striving to stay consistent and efficient.<br><br>Curious about new ideas and always ready to learn and understand new things. 🚀💥 <br><br> "doakan usahamu, usahakan doamu" 
 
 
 ## 🌐 Socials:
@@ -16,3 +16,9 @@ Hi everyone 👋<br>I'm Filo Caesario Farras. You can call me iloo.<br><br>I lov
 [![](https://komarev.com/ghpvc/?username=filocaesario&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+Hi everyone 👋<br>I'm Filo Caesario Farras. You can call me iloo.<br><br>I love exploring web development and AI. 💻🌐<br><br>I love building things, doing challenges, experimenting, and improving things.<br><br>Still learning, still growing, and striving to stay consistent and efficient.<br><br>Curious about new ideas and always ready to learn and understand new things. 🚀 <br><br> "pray for your efforts, make your prayers happen"
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/filocaesario_/?hl=en) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=Ti 
